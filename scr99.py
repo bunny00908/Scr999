@@ -48,7 +48,7 @@ SOURCE_GROUPS = [
 
 # MULTIPLE TARGET CHANNELS - ADD YOUR CHANNELS HERE!
 TARGET_CHANNELS = [
-    -1002871766358, # Original channel
+    -1002621183707, # Original channel
     # Add your additional channels here:
     # -1002783784145,  # Example additional channel
     # -1002783784146,  # Example additional channel
